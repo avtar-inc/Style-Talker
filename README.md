@@ -4,8 +4,8 @@ An official implementation of Style-Talker for Spoken Dialogue Generation
 ## Prerequisites
 
 1. Clone [StyleTTS 2](https://github.com/yl4579/StyleTTS2).
-
-2. Install necessary packages:
+2. In the requirements specify numpy version as numpy==1.26.4, as it version compatible to run with the other versions
+3. Install necessary packages:
 
 ```
 conda create --name StyleTalker python=3.9
